@@ -15,6 +15,8 @@ highlight section you stand in view and navigation bar.
 
 ## Installation
 
+        clone source of code from https://github.com/omarabbasshams/landing-page
+        
 ## How to Contribute
 
 
